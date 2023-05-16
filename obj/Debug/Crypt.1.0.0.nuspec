@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Crypt</id>
+    <version>1.0.0</version>
+    <authors>Crypt</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Programming\work\Interview task\Cryptocurrency\Crypt\bin\Debug\net7.0-windows\Crypt.runtimeconfig.json" target="lib\net7.0-windows7.0\Crypt.runtimeconfig.json" />
+    <file src="D:\Programming\work\Interview task\Cryptocurrency\Crypt\bin\Debug\net7.0-windows\Crypt.dll" target="lib\net7.0-windows7.0\Crypt.dll" />
+  </files>
+</package>
